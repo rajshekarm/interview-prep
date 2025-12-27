@@ -50,3 +50,14 @@
 
 # #Correct version:
 # print(s[n-1::-1])
+
+
+
+
+
+
+#4. strip
+
+
+
+#5.  
